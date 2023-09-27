@@ -1,0 +1,45 @@
+.main-heading {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: white;
+    background-color: grey;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    color: white;
+}
+
+.accordian {
+    border: 2px solid grey;
+    margin-bottom: 1rem;
+    border-radius: 1.2rem;
+    overflow: hidden;
+    margin: 2rem;
+}
+
+.symbol {
+    cursor: pointer;
+    font-weight: 1000;
+    font-size: 1rem;
+    color: black;
+    font-size: 1.5rem;
+}
+
+.answer {
+    padding: 0rem 1rem;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.question {
+    color: black;
+}
